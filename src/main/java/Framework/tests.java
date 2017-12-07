@@ -2,7 +2,7 @@ package Framework;
 
 public class tests {
 	
-	public void test()
+	public void testhhhh()
 	{}
 
 }
